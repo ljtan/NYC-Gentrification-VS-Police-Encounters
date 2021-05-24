@@ -131,3 +131,4 @@ dmypy.json
 
 data/Property_Valuation_and_Assessment_Data.csv
 data/frisk_df.csv
+.DS_Store
