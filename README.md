@@ -1,2 +1,2 @@
 # NYC-Gentrification-VS-Police-Encounters
-Connecting Gentrification with Police Encounters Using Public Data in New York City
+Aggregated and integrated multiple datasets, including property values and police incident reports, to create a detailed visualization of how rising property values correlate with changes in police activity, revealing nuanced insights into how gentrification might influence policing and community interactions.
